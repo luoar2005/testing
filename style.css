@@ -1,0 +1,60 @@
+path {
+	stroke: grey;
+    stroke-width: 0.5px;
+}
+
+.country:hover{
+	stroke: grey;
+	stroke-width: 1.5px;
+}
+
+.text{
+	font-size:10px;
+	text-transform:capitalize;
+}
+
+#container {
+	margin:10px 10%;
+	border:2px solid #000;
+	border-radius: 5px;
+	height:100%;
+	overflow:hidden;
+	background: #5B96D9;
+}
+
+.hidden { 
+	display: none; 
+}
+
+div.tooltip {
+	font-family: "Helvetica", sans-serif;
+	color: darkslategrey; 
+	background: #fff; 
+	padding: .2em; 
+	
+	border-radius: 2px; 
+	box-shadow: 0px 0px 2px 0px #a6a6a6; 
+	opacity: 1; 
+	position: absolute;
+}
+
+.graticule {
+	fill: none;
+	stroke: #bbb;
+	stroke-width: .5px;
+	stroke-opacity: .5;
+}
+
+.equator {
+	stroke: #ccc;
+	stroke-width: 1px;
+}
+
+h1 {
+	font-family: "Helvetica", sans-serif;
+	text-align: center;
+}
+
+p {
+	font-family: "Helvetica", sans-serif;
+}
