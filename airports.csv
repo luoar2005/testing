@@ -1,0 +1,83 @@
+AirportName,AirportLatitude,AirportLongitude,AirportFrequency
+Hamburg - Fuhlsb&uumlttel (HAM),53.63027778,9.98833333,207
+Frankfurt - Main International (FRA),50.02638889,8.54305556,67
+D&uumlsseldorf - International (DUS),51.28944444,6.76666667,47
+Paris - Charles de Gaulle (CDG),49.00972222,2.54777778,16
+M&uumlnchen - Franz Josef Strauss (MUC),48.35388889,11.78611111,30
+London - Heathrow (LHR),51.47750000,-0.46138889,12
+Lissabon - Aeroporto da Portela (LIS),38.78138889,-9.13583333,10
+Palma de Mallorca - Son Sant Joan (PMI),39.55166667,2.73888889,6
+K&oumlln/Bonn - Adenauer (CGN),50.86694444,7.14333333,14
+Faro - Aeroporto (FAO),37.01444444,-7.96583333,4
+Zurich - International (ZRH),47.46472222,8.54916667,8
+Madrid - Barajas (MAD),40.49361111,-3.56666667,5
+Br&uumlssel - National (BRU),50.90138889,4.48444444,9
+N&uumlrnberg - Airport (NUE),49.49861111,11.06694444,6
+Amsterdam - Schiphol (AMS),52.30861111,4.76388889,4
+Copenhagen - Kastrup (CPH),55.61805556,12.65583333,6
+Miami - International (MIA),25.79527778,-80.29277778,12
+Stuttgart - Echterdingen (STR),48.69000000,9.22194444,8
+Barcelona - Aeropuerto (BCN),41.29694444,2.07833333,7
+Bologna - Guglielmo Marconi (BLQ),44.53555556,11.28861111,2
+New York - Newark (EWR),40.69250000,-74.16861111,4
+London - Gatwick (LGW),51.14805556,-0.19027778,4
+Monastir - Habib Bourghiba (MIR),35.75805556,10.75472222,2
+Vancouver - International (YVR),49.19388889,-123.18444444,2
+Rom - Fiumicino (FCO),41.80444444,12.25083333,4
+Houston - George Bush Intercontinental (IAH),29.98444444,-95.34138889,4
+Kos - Ippokratis (KGS),36.79333333,27.09166667,2
+L&uumlbeck - Airport (LBC),53.80527778,10.71916667,2
+Philadelphia (PHL),39.87222222,-75.24083333,2
+Venedig - Marco Polo (VCE),45.50527778,12.35194444,4
+Dubai - International (DXB),25.25277778,55.36444444,4
+Cairo - International (CAI),30.12194444,31.40555556,7
+Kuala Lumpur - International (KUL),2.74555556,101.71000000,3
+Boston - Logan (BOS),42.36305556,-71.00638889,2
+Las Vegas (LAS),36.08000000,-115.00222222,2
+Malta - Luqa (MLA),35.85750000,14.47750000,4
+M&uumlnchen - Riem (MUC*),48.13333333,11.70000000,6
+London - Stansted (STN),51.88500000,0.23500000,2
+Salzburg - Mozart International (SZG),47.79333333,13.00444444,4
+Auckland - International (AKL),-37.00805556,174.79166667,3
+Toronto - Pearson (YYZ),43.67722222,-79.63055556,1
+Malaga - Pablo Ruiz Picasso (AGP),36.67500000,-4.49916667,2
+Stockholm - Arlanda (ARN),59.65194444,17.91861111,2
+Athen - Eleftherios Venizelos (ATH),37.93638889,23.94444444,2
+Ayers Rock - Connellan Airport (AYQ),-25.18611111,130.97555556,2
+Christchurch - International (CHC),-43.48944444,172.53444444,2
+Funchal - Madeira Airport (FNC),32.69777778,-16.77444444,2
+Gerona - Costa Brava (GRO),41.90083333,2.76055556,2
+Honolulu - International (HNL),21.31861111,-157.92250000,2
+Washington Dulles (IAD),38.94444444,-77.45583333,2
+Khartoum - Civil (KRT),15.58944444,32.55305556,4
+New Orleans - Louis Armstrong (MSY),29.99333333,-90.25805556,2
+Chicago O'Hare (ORD),41.98166667,-87.90666667,2
+Saarbr&uumlcken - Ensheim (SCN),49.21444444,7.10944444,4
+San Francisco International (SFO),37.61888889,-122.37500000,2
+Singapur - Changi (SIN),1.35027778,103.994444,2
+Sydney - Kingsford Smith Intern. (SYD),-33.94611111,151.177222,2
+Langkawi International (LGK),6.32972222,99.72861111,2
+Bordeaux - Mérignac (BOD),44.82861111,-0.71527778,1
+Montreal - Trudeau (YUL),45.47055556,-73.74083333,1
+New York - LaGuardia (LGA),40.77722222,-73.87250000,1
+San José - Juan Santamaria (SJO),9.99388889,-84.20888889,3
+Atlanta - Hartsfield Jackson (ATL),33.63666667,-84.42805556,1
+Cairns - Airport (CNS),-16.88583333,145.75527778,1
+Wellington - International Airport (WLG),-41.32722222,174.82194444,1
+Athen - Hellinikon (ATH*),37.90555556,23.72333333,2
+Belize - Stanley International (BZE),17.53916667,-88.30833333,2
+Freeport - International (FPO),26.55861111,-78.69555556,2
+Guatemala - La Aurora (GUA),14.58333333,-90.52750000,2
+Geneva - International (GVA),46.23805556,6.10888889,2
+Leipzig / Halle (LEJ),51.43250000,12.24166667,2
+Orlando - McCoy International (MCO),28.42944444,-81.30888889,2
+Phaphos - International (PFO),34.71805556,32.48583333,2
+Prag - Ruzyne (PRG),50.10083333,14.26000000,2
+Thessaloniki - International (SKG),40.51972222,22.97083333,2
+Tenerife - Reina Sofia (TFS),28.04444444,-16.57250000,2
+Tegucigalpa - Toncontin (TGU),14.06083333,-87.21722222,2
+Brisbane - Airport (BNE),-27.38416667,153.11750000,1
+Penang - Bayan Lepas International (PEN),5.29722222,100.27694444,1
+Luxor - International (LXR),25.67111111,32.70666667,1
+Quepos - La Managua Airfield (XQP),9.44305556,-84.12972222,1
+Pisa - Galileo Galilei (PSA),43.68388889,10.39277778,1
