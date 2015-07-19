@@ -1,108 +1,109 @@
 Strecke	km	freq
-HAM-FRA	413  	52  
-SFO-ZRH	9.399  	2  
-HAM-MUC	600  	26  
-CPH-ORD	6.873  	2  
-CDG-IAD	6.205  	2  
-EWR-HAM	6.154  	2  
-BOS-CDG	5.550  	2  
-DXB-KUL	5.550  	2  
-EWR-LIS	5.447  	2  
-FRA-SIN	10.276  	1  
-DXB-HAM	4.888  	2  
-DUS-HAM	340  	27  
-HAM-LIS	2.200  	4  
-FRA-KRT	4.390  	2  
-FRA-IAH	8.419  	1  
-FRA-YVR	8.086  	1  
-LHR-YVR	7.601  	1  
-BRU-MIA	7.472  	1  
-AMS-MIA	7.456  	1  
-HAM-TFS	3.575  	2  
-AKL-HNL	7.063  	1  
-HAM-FNC	3.148  	2  
-HNL-IAH	6.283  	1  
-BNE-SIN	6.155  	1  
-BCN-HAM	1.493  	4  
-CDG-HAM	730  	8  
-LHR-YYZ	5.723  	1  
-DUS-PMI	1.342  	4  
-HAM-MAD	1.780  	3  
-LHR-YUL	5.229  	1  
-MUC-PFO	2.359  	2  
-FAO-HAM	2.308  	2  
-HAM-KGS	2.291  	2  
-HAM-LHR	747  	6  
-HAM-STR	552  	8  
-CGN-HAM	364  	12  
-AMS-MLA	1.982  	2  
-DUS-FAO	1.968  	2  
-FRA-LIS	1.960  	2  
-MIA-SJO	1.797  	2  
-CAI-LHR	3.536  	1  
-LAS-PHL	3.503  	1  
-DUS-SKG	1.729  	2  
-GUA-MIA	1.637  	2  
-CAI-KRT	1.614  	2  
-ATH-MUC	1.519  	2  
-HAM-LGW	745  	4  
-CAI-FRA	2.923  	1  
-ATL-LAS	2.811  	1  
-HAM-NUE	466  	6  
-HAM-ZRH	693  	4  
-HAM-SZG	683  	4  
-HAM-FCO	1.326  	2  
-CAI-MUC	2.614  	1  
-BRU-HAM	483  	5  
-AYQ-SYD	2.180  	1  
-DUS-GRO	1.087  	2  
-AKL-SYD	2.164  	1  
-HAM-SCN	530  	4  
-BLQ-HAM	1.016  	2  
-HAM-MLA	2.006  	1  
-HAM-MIR	1.987  	1  
-DUS-LIS	1.863  	1  
-HAM-VCE	920  	2  
-ATH-FRA	1.809  	1  
-AYQ-CNS	1.788	1  
-LEJ-MLA	1.740  	1  
-BRU-VCE	837  	2  
-HAM-PMI	1.659  	1  
-ARN-HAM	827  	2  
-FRA-MIR	1.595  	1  
-MIA-TGU	1.487  	1  
-LBC-STN	737  	2  
-BZE-MIA	1.234  	1  
-BCN-DUS	1.169  	1  
-CPH-HAM	280  	4  
-ATH-CAI	1.119  	1  
-DUS-MUC	499  	2  
-HAM-PRG	491  	2  
-IAH-MSY	490  	2  
-FCO-FRA	958  	1  
-CGN-PSA	835  	1  
-DUS-CDG	394  	2  
-AGP-BCN	767  	1  
-AKL-CHC	745  	1  
-FCO-MUC	729  	1  
-MCO-MIA	309  	2  
-DUS-FRA	188  	3  
-CGN-LHR	536  	1  
-BOD-CDG	527  	1  
-LIS-MAD	514  	1  
-CAI-LXR	510  	1  
-DUS-MUC	487  	1  
-GVA-ZRH	231  	2  
-KUL-LGK	453  	1  
-AGP-MAD	433  	1  
-BZE-TGU	402  	1  
-FPO-MIA	180  	2  
-CDG-LHR	348  	1  
-FRA-MUC	311  	1  
-CHC-WLG	304  	1  
-HAM-LEJ	288  	1  
-BCN-PMI	202  	1  
-AMS-BRU	158  	1  
-LGA-PHL	154  	1  
-LGK-PEN	129  	1  
-SJO-XQP	62  	1  
+'Hamburg - Fuhlsbüttel' - 'Frankfurt - Main International'	413  	52  
+'San Francisco International' - 'Zurich - International'	9.399  	2  
+'Hamburg - Fuhlsbüttel' - 'München - Franz Josef Strauss'	600  	26  
+'Copenhagen - Kastrup' - 'Chicago O´Hare'	6.873  	2  
+'Paris - Charles de Gaulle' - 'Washington Dulles'	6.205  	2  
+'New York - Newark' - 'Hamburg - Fuhlsbüttel'	6.154  	2  
+'Boston - Logan' - 'Paris - Charles de Gaulle'	5.550  	2  
+'Dubai - International' - 'Kuala Lumpur - International'	5.550  	2  
+'New York - Newark' - 'Lissabon - Aeroporto da Portela'	5.447  	2  
+'Frankfurt - Main International' - 'Singapur - Changi'	10.276  	1  
+'Dubai - International' - 'Hamburg - Fuhlsbüttel'	4.888  	2  
+'Düsseldorf - International' - 'Hamburg - Fuhlsbüttel'	340  	27  
+'Hamburg - Fuhlsbüttel' - 'Lissabon - Aeroporto da Portela'	2.200  	4  
+'Frankfurt - Main International' - 'Khartoum - Civil'	4.390  	2  
+'Frankfurt - Main International' - 'Houston - George Bush Intercontinental'	8.419  	1  
+'Frankfurt - Main International' - 'Vancouver - International'	8.086  	1  
+'London - Heathrow' - 'Vancouver - International'	7.601  	1  
+'Brüssel - National' - 'Miami - International'	7.472  	1  
+'Amsterdam - Schiphol' - 'Miami - International'	7.456  	1  
+'Hamburg - Fuhlsbüttel' - 'Tenerife - Reina Sofia'	3.575  	2  
+'Auckland - International' - 'Honolulu - International'	7.063  	1  
+'Hamburg - Fuhlsbüttel' - 'Funchal - Madeira Airport'	3.148  	2  
+'Honolulu - International' - 'Houston - George Bush Intercontinental'	6.283  	1  
+'Brisbane - Airport' - 'Singapur - Changi'	6.155  	1  
+'Barcelona - Aeropuerto' - 'Hamburg - Fuhlsbüttel'	1.493  	4  
+'Paris - Charles de Gaulle' - 'Hamburg - Fuhlsbüttel'	730  	8  
+'London - Heathrow' - 'Toronto - Pearson'	5.723  	1  
+'Düsseldorf - International' - 'Palma de Mallorca - Son Sant Joan'	1.342  	4  
+'Hamburg - Fuhlsbüttel' - 'Madrid - Barajas'	1.780  	3  
+'London - Heathrow' - 'Montreal - Trudeau'	5.229  	1  
+'München - Franz Josef Strauss' - 'Phaphos - International'	2.359  	2  
+'Faro - Aeroporto' - 'Hamburg - Fuhlsbüttel'	2.308  	2  
+'Hamburg - Fuhlsbüttel' - 'Kos - Ippokratis'	2.291  	2  
+'Hamburg - Fuhlsbüttel' - 'London - Heathrow'	747  	6  
+'Hamburg - Fuhlsbüttel' - 'Stuttgart - Echterdingen'	552  	8  
+'Köln/Bonn - Adenauer' - 'Hamburg - Fuhlsbüttel'	364  	12  
+'Amsterdam - Schiphol' - 'Malta - Luqa'	1.982  	2  
+'Düsseldorf - International' - 'Faro - Aeroporto'	1.968  	2  
+'Frankfurt - Main International' - 'Lissabon - Aeroporto da Portela'	1.960  	2  
+'Miami - International' - 'San José - Juan Santamaria'	1.797  	2  
+'Cairo - International' - 'London - Heathrow'	3.536  	1  
+'Las Vegas' - 'Philadelphia'	3.503  	1  
+'Düsseldorf - International' - 'Thessaloniki - International'	1.729  	2  
+'Guatemala - La Aurora' - 'Miami - International'	1.637  	2  
+'Cairo - International' - 'Khartoum - Civil'	1.614  	2  
+'Athen - Eleftherios Venizelos' - 'München - Franz Josef Strauss'	1.519  	2  
+'Hamburg - Fuhlsbüttel' - 'London - Gatwick'	745  	4  
+'Cairo - International' - 'Frankfurt - Main International'	2.923  	1  
+'Atlanta - Hartsfield Jackson' - 'Las Vegas'	2.811  	1  
+'Hamburg - Fuhlsbüttel' - 'Nürnberg - Airport'	466  	6  
+'Hamburg - Fuhlsbüttel' - 'Zurich - International'	693  	4  
+'Hamburg - Fuhlsbüttel' - 'Salzburg - Mozart International'	683  	4  
+'Hamburg - Fuhlsbüttel' - 'Rom - Fiumicino'	1.326  	2  
+'Cairo - International' - 'München - Franz Josef Strauss'	2.614  	1  
+'Brüssel - National' - 'Hamburg - Fuhlsbüttel'	483  	5  
+'Ayers Rock - Connellan Airport' - 'Sydney - Kingsford Smith Intern.'	2.180  	1  
+'Düsseldorf - International' - 'Gerona - Costa Brava'	1.087  	2  
+'Auckland - International' - 'Sydney - Kingsford Smith Intern.'	2.164  	1  
+'Hamburg - Fuhlsbüttel' - 'Saarbrücken - Ensheim'	530  	4  
+'Bologna - Guglielmo Marconi' - 'Hamburg - Fuhlsbüttel'	1.016  	2  
+'Hamburg - Fuhlsbüttel' - 'Malta - Luqa'	2.006  	1  
+'Hamburg - Fuhlsbüttel' - 'Monastir - Habib Bourghiba'	1.987  	1  
+'Düsseldorf - International' - 'Lissabon - Aeroporto da Portela'	1.863  	1  
+'Hamburg - Fuhlsbüttel' - 'Venedig - Marco Polo'	920  	2  
+'Athen - Eleftherios Venizelos' - 'Frankfurt - Main International'	1.809  	1  
+'Ayers Rock - Connellan Airport' - 'Cairns - Airport'	1.788	1  
+'Leipzig / Halle' - 'Malta - Luqa'	1.740  	1  
+'Brüssel - National' - 'Venedig - Marco Polo'	837  	2  
+'Hamburg - Fuhlsbüttel' - 'Palma de Mallorca - Son Sant Joan'	1.659  	1  
+'Stockholm - Arlanda' - 'Hamburg - Fuhlsbüttel'	827  	2  
+'Frankfurt - Main International' - 'Monastir - Habib Bourghiba'	1.595  	1  
+'Miami - International' - 'Tegucigalpa - Toncontin'	1.487  	1  
+'Lübeck - Airport' - 'London - Stansted'	737  	2  
+'Belize - Stanley International' - 'Miami - International'	1.234  	1  
+'Barcelona - Aeropuerto' - 'Düsseldorf - International'	1.169  	1  
+'Copenhagen - Kastrup' - 'Hamburg - Fuhlsbüttel'	280  	4  
+'Athen - Eleftherios Venizelos' - 'Cairo - International'	1.119  	1  
+'Düsseldorf - International' - 'München - Franz Josef Strauss'	499  	2  
+'Hamburg - Fuhlsbüttel' - 'Prag - Ruzyne'	491  	2  
+'Houston - George Bush Intercontinental' - 'New Orleans - Louis Armstrong'	490  	2  
+'Rom - Fiumicino' - 'Frankfurt - Main International'	958  	1  
+'Köln/Bonn - Adenauer' - 'Pisa - Galileo Galilei'	835  	1  
+'Düsseldorf - International' - 'Paris - Charles de Gaulle'	394  	2  
+'Malaga - Pablo Ruiz Picasso' - 'Barcelona - Aeropuerto'	767  	1  
+'Auckland - International' - 'Christchurch - International'	745  	1  
+'Rom - Fiumicino' - 'München - Franz Josef Strauss'	729  	1  
+'Orlando - McCoy International' - 'Miami - International'	309  	2  
+'Düsseldorf - International' - 'Frankfurt - Main International'	188  	3  
+'Köln/Bonn - Adenauer' - 'London - Heathrow'	536  	1  
+'Bordeaux - Mérignac' - 'Paris - Charles de Gaulle'	527  	1  
+'Lissabon - Aeroporto da Portela' - 'Madrid - Barajas'	514  	1  
+'Cairo - International' - 'Luxor - International'	510  	1  
+'Düsseldorf - International' - 'München - Franz Josef Strauss'	487  	1  
+'Geneva - International' - 'Zurich - International'	231  	2  
+'Kuala Lumpur - International' - 'Langkawi International'	453  	1  
+'Malaga - Pablo Ruiz Picasso' - 'Madrid - Barajas'	433  	1  
+'Belize - Stanley International' - 'Tegucigalpa - Toncontin'	402  	1  
+'Freeport - International' - 'Miami - International'	180  	2  
+'Paris - Charles de Gaulle' - 'London - Heathrow'	348  	1  
+'Frankfurt - Main International' - 'München - Franz Josef Strauss'	311  	1  
+'Christchurch - International' - 'Wellington - International Airport'	304  	1  
+'Hamburg - Fuhlsbüttel' - 'Leipzig / Halle'	288  	1  
+'Barcelona - Aeropuerto' - 'Palma de Mallorca - Son Sant Joan'	202  	1  
+'Amsterdam - Schiphol' - 'Brüssel - National'	158  	1  
+'New York - LaGuardia' - 'Philadelphia'	154  	1  
+'Langkawi International' - 'Penang - Bayan Lepas International'	129  	1  
+'San José - Juan Santamaria' - 'Quepos - La Managua Airfield'	62  	1  
+
